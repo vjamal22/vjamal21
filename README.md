@@ -1,2 +1,3 @@
-# vjamal21
-My personal repository
+# About me.
+
+Looking to learn and work on AWS projects
